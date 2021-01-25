@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1611568901 source:c:\users\marie-pierre\documents\limayrac\cours\miniprojet\jeunombreadeviner\jeunombreadeviner\jeunombreadeviner2021\src\mainjeunombreadeviner.cpp
+	<iostream>
+	"../include/JeuNombreADeviner.h"
+
+1611569194 c:\users\marie-pierre\documents\limayrac\cours\miniprojet\jeunombreadeviner\jeunombreadeviner\jeunombreadeviner2021\include\jeunombreadeviner.h
+	<string>
+
+1611569194 source:c:\users\marie-pierre\documents\limayrac\cours\miniprojet\jeunombreadeviner\jeunombreadeviner\jeunombreadeviner2021\src\jeunombreadeviner.cpp
+	<iostream>
+	"../include/JeuNombreAdeviner.h"
+
+1611569194 source:c:\users\marie-pierre\documents\limayrac\cours\miniprojet\jeunombreadeviner\jeunombreadeviner2021\jeunombreadeviner_struct\src\jeunombreadeviner.cpp
+	<iostream>
+	"../include/JeuNombreAdeviner.h"
+
+1611569194 c:\users\marie-pierre\documents\limayrac\cours\miniprojet\jeunombreadeviner\jeunombreadeviner2021\jeunombreadeviner_struct\include\jeunombreadeviner.h
+	<string>
+
+1611570465 source:c:\users\marie-pierre\documents\limayrac\cours\miniprojet\jeunombreadeviner\jeunombreadeviner2021\jeunombreadeviner_struct\src\mainjeunombreadeviner.cpp
+	<iostream>
+	"../include/JeuNombreADeviner.h"
+
